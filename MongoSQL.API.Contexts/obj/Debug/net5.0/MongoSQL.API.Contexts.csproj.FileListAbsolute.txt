@@ -1,0 +1,12 @@
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\bin\Debug\net5.0\MongoSQL.API.Contexts.deps.json
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\bin\Debug\net5.0\MongoSQL.API.Contexts.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\bin\Debug\net5.0\ref\MongoSQL.API.Contexts.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\bin\Debug\net5.0\MongoSQL.API.Contexts.pdb
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\obj\Debug\net5.0\MongoSQL.API.Contexts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\obj\Debug\net5.0\MongoSQL.API.Contexts.AssemblyInfoInputs.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\obj\Debug\net5.0\MongoSQL.API.Contexts.AssemblyInfo.cs
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\obj\Debug\net5.0\MongoSQL.API.Contexts.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\obj\Debug\net5.0\MongoSQL.API.Contexts.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\obj\Debug\net5.0\ref\MongoSQL.API.Contexts.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\obj\Debug\net5.0\MongoSQL.API.Contexts.pdb
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Contexts\obj\Debug\net5.0\MongoSQL.API.Contexts.csproj.AssemblyReference.cache

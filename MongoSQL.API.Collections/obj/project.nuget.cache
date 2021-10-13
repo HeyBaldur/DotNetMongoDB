@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ADZRXK7pu1Mlgma57HwmfrZRSdmEJs6MLKg9b8AgG0FyTWv6Yb2mXGtMFFRieLcR/OfURgErBHhoXLePXhzAhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodolfo AC\\Documents\\MongoDB\\MongoSQL.API\\MongoSQL.API.Collections\\MongoSQL.API.Collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodolfo AC\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
+    "C:\\Users\\Rodolfo AC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MongoSQL.API.Contexts\MongoSQL.API.Contexts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="V1\" />
+  </ItemGroup>
+
+</Project>

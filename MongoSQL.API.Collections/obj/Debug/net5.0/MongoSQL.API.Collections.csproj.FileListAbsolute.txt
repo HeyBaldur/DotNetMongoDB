@@ -1,0 +1,12 @@
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\bin\Debug\net5.0\MongoSQL.API.Collections.deps.json
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\bin\Debug\net5.0\MongoSQL.API.Collections.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\bin\Debug\net5.0\ref\MongoSQL.API.Collections.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\bin\Debug\net5.0\MongoSQL.API.Collections.pdb
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\obj\Debug\net5.0\MongoSQL.API.Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\obj\Debug\net5.0\MongoSQL.API.Collections.AssemblyInfoInputs.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\obj\Debug\net5.0\MongoSQL.API.Collections.AssemblyInfo.cs
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\obj\Debug\net5.0\MongoSQL.API.Collections.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\obj\Debug\net5.0\MongoSQL.API.Collections.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\obj\Debug\net5.0\ref\MongoSQL.API.Collections.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\obj\Debug\net5.0\MongoSQL.API.Collections.pdb
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Collections\obj\Debug\net5.0\MongoSQL.API.Collections.csproj.AssemblyReference.cache

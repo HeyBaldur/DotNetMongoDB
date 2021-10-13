@@ -1,0 +1,17 @@
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\bin\Debug\net5.0\MongoSQL.API.Services.deps.json
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\bin\Debug\net5.0\MongoSQL.API.Services.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\bin\Debug\net5.0\ref\MongoSQL.API.Services.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\bin\Debug\net5.0\MongoSQL.API.Services.pdb
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\bin\Debug\net5.0\MongoSQL.API.Collections.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\bin\Debug\net5.0\MongoSQL.API.Contexts.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\bin\Debug\net5.0\MongoSQL.API.Collections.pdb
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\bin\Debug\net5.0\MongoSQL.API.Contexts.pdb
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\obj\Debug\net5.0\MongoSQL.API.Services.csproj.AssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\obj\Debug\net5.0\MongoSQL.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\obj\Debug\net5.0\MongoSQL.API.Services.AssemblyInfoInputs.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\obj\Debug\net5.0\MongoSQL.API.Services.AssemblyInfo.cs
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\obj\Debug\net5.0\MongoSQL.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\obj\Debug\net5.0\MongoSQL.API.Services.csproj.CopyComplete
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\obj\Debug\net5.0\MongoSQL.API.Services.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\obj\Debug\net5.0\ref\MongoSQL.API.Services.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Services\obj\Debug\net5.0\MongoSQL.API.Services.pdb

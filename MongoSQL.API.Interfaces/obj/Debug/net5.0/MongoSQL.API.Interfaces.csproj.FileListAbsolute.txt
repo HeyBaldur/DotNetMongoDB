@@ -1,0 +1,15 @@
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\bin\Debug\net5.0\MongoSQL.API.Interfaces.deps.json
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\bin\Debug\net5.0\MongoSQL.API.Interfaces.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\bin\Debug\net5.0\ref\MongoSQL.API.Interfaces.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\bin\Debug\net5.0\MongoSQL.API.Interfaces.pdb
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\bin\Debug\net5.0\MongoSQL.API.Contexts.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\bin\Debug\net5.0\MongoSQL.API.Contexts.pdb
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\obj\Debug\net5.0\MongoSQL.API.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\obj\Debug\net5.0\MongoSQL.API.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\obj\Debug\net5.0\MongoSQL.API.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\obj\Debug\net5.0\MongoSQL.API.Interfaces.AssemblyInfo.cs
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\obj\Debug\net5.0\MongoSQL.API.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\obj\Debug\net5.0\MongoSQL.API.Interfaces.csproj.CopyComplete
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\obj\Debug\net5.0\MongoSQL.API.Interfaces.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\obj\Debug\net5.0\ref\MongoSQL.API.Interfaces.dll
+C:\Users\Rodolfo AC\Documents\MongoDB\MongoSQL.API\MongoSQL.API.Interfaces\obj\Debug\net5.0\MongoSQL.API.Interfaces.pdb
